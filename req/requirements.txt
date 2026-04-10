@@ -1,0 +1,12 @@
+# MediaPipe & Computer Vision
+mediapipe>=0.10.0
+opencv-python
+
+# Data Processing & ML
+pandas
+numpy
+scikit-learn
+joblib
+
+# Utilities
+pathlib
