@@ -23,6 +23,15 @@ Gym Bro is a real-time exercise analyzer that combines pose estimation, rep coun
 - data/: feature_vectors.csv (training data).
 - models/: saved classifier artifacts (generated).
 
+## Tech stack
+
+- Language: Python 3.
+- Pose tracking: MediaPipe Tasks API.
+- Computer vision: OpenCV.
+- ML: scikit-learn (RandomForest) with joblib serialization.
+- Data: NumPy and pandas.
+- UI: Streamlit with Plotly charts.
+
 ## Requirements
 
 Install dependencies from the project root:
